@@ -10,9 +10,8 @@
 body {
     height: 100vh;
     background: url("../Portafolio/Background.jpg") no-repeat center / cover;
-    padding: 50px 5%;
+    padding: 50px 2%;
 }
-
 .home {
     display: flex;
     align-items: center;
